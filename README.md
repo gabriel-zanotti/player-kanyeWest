@@ -12,7 +12,4 @@
 
 ###  Visualize o projeto
 
-- <a href="https://65ba970465b4cc0675000e4f--clever-pegasus-adf115.netlify.app/" target="_blank">Clique aqui!<a/>
-
-
-
+- <a href="https://65ba970465b4cc0675000e4f--clever-pegasus-adf115.netlify.app/" target="_blank" rel="noopener noreferrer">Clique aqui!<a/>
